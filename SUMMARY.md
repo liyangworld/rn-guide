@@ -7,10 +7,10 @@
    * [自定义字体图标](plugins/iconfont.md)
    * [导航 react-navigation](plugins/react-navigation.md)
 * 封装工具
-   * [封装日志打印](plugins/log.md)
-   * [封装fetch请求](plugins/request.md)
-   * [封装本地存储 AsyncStorage](plugins/AsyncStorage.md)
-   * [像素转尺寸](plugins/px.md)
-   * [封装 Toast](plugins/toast.md)
+   * [封装日志打印](utils/log.md)
+   * [封装fetch请求](utils/request.md)
+   * [封装本地存储 AsyncStorage](utils/AsyncStorage.md)
+   * [像素转尺寸](utils/px.md)
+   * [封装 Toast](utils/toast.md)
 
 
