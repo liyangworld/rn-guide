@@ -60,7 +60,7 @@ export default Icon = createIconSetFromFontello(fontelloConfig);
 ```javascript
 import Icon from "../components/Icon";
 
-//阿里图标库中的图标 经fontello处理后 名称中的下横线去掉了
+//阿里图标库中的图标 经fontello处理后 名称有了些许的改变 以config.json文件中的search字段为准
 <Icon name={"roundcheck"} color={'#f00'} size={30}/>
 <Icon.Button name="search" backgroundColor="#00f">按钮图标</Icon.Button>
 <Text>内联 <Icon name="search" color="#f60"/> 图标</Text>
