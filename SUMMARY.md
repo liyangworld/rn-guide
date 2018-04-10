@@ -5,6 +5,7 @@
    * [安装各开发工具](tools/install.md)
    * [确定开发各版本](tools/devVersions.md)
    * [Yarn基本使用](tools/yarn.md)
+   * [注意事项](tools/mention.md)
 * 常用组件
    * [自定义字体图标](plugins/iconfont.md)
    * [导航 react-navigation](plugins/react-navigation.md)
